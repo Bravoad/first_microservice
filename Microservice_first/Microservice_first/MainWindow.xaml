@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="User Management" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" Margin="10">
+            <Label Content="Имя пользователя" />
+            <TextBox x:Name="UserNameTextBox" />
+            <Label Content="Е-майл" />
+            <TextBox x:Name="UserEmailTextBox" />
+            <Label Content="возраст" />
+            <TextBox x:Name="UserAgeTextBox" />
+            <Button x:Name="AddUserButton" Content="Add User" Click="AddUserButton_Click"/>
+            <Button x:Name="GetUsersButton" Content="Get Users" Click="GetUsersButton_Click"/>
+            <ListBox x:Name="UsersListBox" DisplayMemberPath="Name"/>
+        </StackPanel>
+    </Grid>
+</Window>

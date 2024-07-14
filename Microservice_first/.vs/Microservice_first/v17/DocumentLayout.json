@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|d:\\backend_training\\microservicefastapi\\microservice_first\\microservice_first\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|solutionrelative:microservice_first\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|d:\\backend_training\\microservicefastapi\\microservice_first\\microservice_first\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|solutionrelative:microservice_first\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|d:\\backend_training\\microservicefastapi\\microservice_first\\microservice_first\\microservice_first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|solutionrelative:microservice_first\\microservice_first.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|d:\\backend_training\\microservicefastapi\\microservice_first\\microservice_first\\microservice_first.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{69E094A2-6E74-4E14-A46A-9001A0575C4C}|Microservice_first\\Microservice_first.csproj|solutionrelative:microservice_first\\microservice_first.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microservice_first.csproj",
+              "DocumentMoniker": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\Microservice_first.csproj",
+              "RelativeDocumentMoniker": "Microservice_first\\Microservice_first.csproj",
+              "ToolTip": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\Microservice_first.csproj",
+              "RelativeToolTip": "Microservice_first\\Microservice_first.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T17:26:38.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microservice_first",
+              "DocumentMoniker": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\Microservice_first.csproj",
+              "RelativeDocumentMoniker": "Microservice_first\\Microservice_first.csproj",
+              "ToolTip": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\Microservice_first.csproj",
+              "RelativeToolTip": "Microservice_first\\Microservice_first.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T17:26:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Microservice_first\\MainWindow.xaml",
+              "ToolTip": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\MainWindow.xaml",
+              "RelativeToolTip": "Microservice_first\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-01T16:24:31.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Microservice_first\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\backend_training\\microserviceFastApi\\Microservice_first\\Microservice_first\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Microservice_first\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAE8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:24:28.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

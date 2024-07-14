@@ -1,0 +1,3 @@
+D:\backend_training\microserviceFastApi\Microservice_first\Microservice_first\obj\Debug\net8.0-windows\Microservice_first.csproj.AssemblyReference.cache
+D:\backend_training\microserviceFastApi\Microservice_first\Microservice_first\obj\Debug\net8.0-windows\App.g.cs
+D:\backend_training\microserviceFastApi\Microservice_first\Microservice_first\obj\Debug\net8.0-windows\Microservice_first_MarkupCompile.cache
